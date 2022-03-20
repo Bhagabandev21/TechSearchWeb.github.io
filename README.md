@@ -1,2 +1,2 @@
-# TechSearchWeb.github.io
+# TechSearchWeb.com
 My Own Website
